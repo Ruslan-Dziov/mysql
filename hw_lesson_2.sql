@@ -22,7 +22,7 @@ Jun 15 10:02:59 red-laptop sshd[1217]: Server listening on 0.0.0.0 port 22.
 Jun 15 10:02:59 red-laptop sshd[1217]: Server listening on :: port 22.
 Jun 15 10:02:59 red-laptop systemd[1]: Started OpenBSD Secure Shell server.
 
-установил на основной и гостевой ОС mysql - sudo apt install mysql-server
+#установил на основной и гостевой ОС mysql - sudo apt install mysql-server
 
 red@red-laptop:~$ sudo systemctl status mysql.service
 ● mysql.service - MySQL Community Server
